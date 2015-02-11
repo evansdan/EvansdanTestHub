@@ -10,6 +10,8 @@ namespace HelloGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub Test First Change");
+            Console.ReadLine();
         }
     }
 }
